@@ -1,1 +1,1 @@
-# MyFourthApp_StudentDatabase
+An Application to make use of Database using Android Studio: Develop an application that makes use of Database to perform operations like INSERT, UPDATE, DELETE, VIEW, VIEW ALL of Students details (Name, Rollno, Mark) entering as an input in Database
